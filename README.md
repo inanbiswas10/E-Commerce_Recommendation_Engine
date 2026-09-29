@@ -1,4 +1,4 @@
-# High-Performance Hybrid AI E-Commerce Recommendation Engine (C++)
+# High Performance Hybrid AI E-Commerce Recommendation Engine
 
 A low-latency, hybrid recommendation engine engineered in modern C++ from scratch. The system combines **User-User Collaborative Filtering**, **Item-Item Co-occurrence Matrixing** and **AI Dense Vector Embeddings** to deliver real time personalized product recommendations with sub-15ms inference latency.
 
